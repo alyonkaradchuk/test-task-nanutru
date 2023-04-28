@@ -3,6 +3,10 @@
 Click [here](https://alyonkaradchuk.github.io/test-task-nanutru/) to see the demonstration.
 
 <h2>Stack technologies I used:</h2>
+- HTML
+- Sass (SCSS)
+- JavaScript
+- BEM methodology
 <br>
 <a href="https://developer.mozilla.org/ru/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48"/>
@@ -13,6 +17,4 @@ Click [here](https://alyonkaradchuk.github.io/test-task-nanutru/) to see the dem
 </a> <a href="https://avivi.pro/ua/blog/metodologiya-bem-v-deystvii/">
   <img src="https://iconape.com/wp-content/files/gl/43407/svg/bem.svg" height="48"/>
 </a>
-
----
 <br>
